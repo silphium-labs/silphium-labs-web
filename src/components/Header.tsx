@@ -41,16 +41,6 @@ export default function Header() {
                   Services
                 </a>
               </li>
-              {/*<li class={`border-b-2 ${active("/blog")} mx-1.5 sm:mx-6`}>
-              <a class="md:p-4 py-3 px-0 block" href="#">
-                Blog
-              </a>
-            </li>*/}
-              {/*<li class={`border-b-2 ${active("/contact-us")} mx-1.5 sm:mx-6`}>
-              <a class="md:p-4 py-3 px-0 block md:mb-0 mb-2" href="#">
-                Contact Us
-              </a>
-            </li>*/}
             </ul>
           </nav>
         </div>
