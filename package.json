@@ -1,5 +1,5 @@
 {
-  "name": "example-with-tailwindcss",
+  "name": "Silphium labs web",
   "type": "module",
   "scripts": {
     "dev": "vinxi dev",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@fontsource/ubuntu": "^5.1.1",
+    "@solidjs/meta": "^0.29.4",
     "@solidjs/router": "^0.15.0",
     "@solidjs/start": "^1.1.0",
     "solid-js": "^1.9.2",
